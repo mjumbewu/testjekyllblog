@@ -3,6 +3,7 @@ published: false
 layout: post
 title: This is a new page
 categories: posts
+date: 2016-10-04T00:00:00.000Z
 ---
 ## A New Post
 
