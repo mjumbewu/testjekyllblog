@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+title: This is a new page
+categories: posts
 ---
 ## A New Post
 
